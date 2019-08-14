@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
     public void add(){
     
     }
+    
+    public void add2(){
+    
+    }
 }
